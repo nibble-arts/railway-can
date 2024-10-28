@@ -54,7 +54,7 @@ Die Blinklichtanlage wird mit den Anschlüssen für das Signal verbunden. Es ist
 ## Gleisfreimeldung
 Für einen vorbildlichen Betrieb ist es wichtig zu wissen, welcher Abschnitt von Fahrzeugen besetzt ist. Um nicht nur Lokomotiven und deren Stromverbrauch zu erkennen, sondern den gesamten Zug, werden Time of Flight-Sensoren (ToF) eingesetzt, die einen bestimmten Raum mittels Laserstrahl überwachen.
 
-![image](RCAN_SPDrS60_3d_printing.jpg)
+![image](images/RCAN_SPDrS60_3d_printing.jpg)
 
 Die Feimeldung wird über die ToF-Sensoren, der Strommessung am Gleis und dem Status der Gleis- und Signalnodule bestimmt.
 
