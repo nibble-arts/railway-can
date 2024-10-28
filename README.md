@@ -23,6 +23,8 @@ Das Stellwerk ist ein physisch aufgebautes Spurplanstellwerk der Type Siemens SP
 
 Die Blöcke werden aus 3D-gedruckten Teilen zusammengesetzt. Im Inneren sitz die Elektronik für den jeweiligen Block mit Tasten, LEDs oder einem Display für die Zugnummer.
 
+![image](images/RCAN_SPDrS60_3d_printing.jpg)
+
 Die Verkabelung der einzelnen Blöcke untereinander ist ganz einfach, werden sie lediglich mit einem vierpoligen Kabel beliebig miteinander verbunden. Die letzte Verbindung läuft zur Zentrale.
 
 Die Zuordnung zwischen den Anlagenmodulen und den Stellwerksblöcken muss nur einmalig erfolgen und ist ganz einfach gehalten.
@@ -34,7 +36,9 @@ Auf der Anlage werden die isolierten Gleisabschnitte, die Signal, Weichen und Sc
 
 Jedes Anlagenmodul besitzt einen Anschluss für die DC-Versorgungsspannung und zwei Busstecker. Die Fahrspannung wird in jenem Modul gesteuert und darf zu 2 Ampere nicht überschreiten. Bei einem Kurzschluss in einem Abschnitt schaltet dieses Modul ab, die restliche Anlage bleibt weiter in Betrieb.
 
-Der Bus wird einfach von einem Modul zum nächsten mit zweipoligen Kabeln verbunden. Es können mindestens 100 Module an einem Bus betrieben werden, die Zentrale bietet mehrere Busse an. Die maximale Länge einer Busleitung sollte 100 Meter nicht überschreiten. 
+Der Bus wird einfach von einem Modul zum nächsten mit zweipoligen Kabeln verbunden. Es können mindestens 100 Module an einem Bus betrieben werden, die Zentrale bietet mehrere Busse an. Die maximale Länge einer Busleitung sollte 100 Meter nicht überschreiten.
+
+![image](images/RCQN_modules.jpg)
 
 Je nach Modul gibt es noch die Anschlüsse zur Anlage.
 
