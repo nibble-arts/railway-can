@@ -1,2 +1,2 @@
 # KiCAD Bibliotheken
-Alle Bibliotheken, die nichts standardmäßig in KiCAD mitgeliefert werden, sind hier angeleg.
+Alle Bibliotheken, die nicht standardmäßig mit KiCAD mitgeliefert werden, sind hier abgelegt.
