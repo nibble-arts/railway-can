@@ -30,7 +30,9 @@ Für eine große Anlage können auch mehrere kleine Stellwerke aufgebaut werden,
 ## Anlagenmodule
 Auf der Anlage werden die isolierten Gleisabschnitte, die Signal, Weichen und Schrankenanlagen mit jeweils einem Anlagenmodul verbunden. Für die verschiedenen Aufgaben gibt es unterschiedliche Module.
 
-Jedes Anlagenmodul besitzt einen Anschluss für die DC-Versorgungsspannung und zwei Busstecker. Der Bus wird einfach von einem Modul zum nächsten mit zweipoligen Kabeln verbunden. Es können mindestens 100 Module an einem Bus betrieben werden, die Zentrale bietet mehrere Busse an. Die maximale Länge einer Busleitung sollte 100 Meter nicht überschreiten. 
+Jedes Anlagenmodul besitzt einen Anschluss für die DC-Versorgungsspannung und zwei Busstecker. Die Fahrspannung wird in jenem Modul gesteuert und darf zu 2 Ampere nicht überschreiten. Bei einem Kurzschluss in einem Abschnitt schaltet dieses Modul ab, die restliche Anlage bleibt weiter in Betrieb.
+
+Der Bus wird einfach von einem Modul zum nächsten mit zweipoligen Kabeln verbunden. Es können mindestens 100 Module an einem Bus betrieben werden, die Zentrale bietet mehrere Busse an. Die maximale Länge einer Busleitung sollte 100 Meter nicht überschreiten. 
 
 Je nach Modul gibt es noch die Anschlüsse zur Anlage.
 
@@ -60,3 +62,8 @@ Die Zentrale verdient den Namen eigentlich nicht, da sie keine zentrale Steuerun
 Sie besitzt einen USB-Anschluss zum Anschluss an einen PC. Ein Computer ist für den normalen Betrieb NICHT nötig. Es können jedoch alle Schalt- und Fahrbefehle von Computer gesendet werden über so z.B. ein Fahrplan vorgegeben werden. Die Zugfahrten können in dem Fall manuell erfolgen oder auch automatisch. 
 
 Eine Software dafür ist derzeit nicht Teil des Projekts. Das Protokoll wird jedoch hier offengelegt.
+
+## Fahrpult
+Es können mehrere Fahrpulte angeschlossen werden. Die Fahrpulte bieten einen Fahrregler, einen Schalter für die Fahrtrichtung und ein Display, auf dem die nächsten Signale angezeigt werden. 
+
+Über einen Drehregler lässt sich die Loknummer einstellen.
