@@ -9,7 +9,7 @@ Es handelt sich dann um eine digitale Modellbahn, bei der jedoch die Anlage digi
 
 Die befahrenen Gleisabschnitte werden automatisch vom System geschalten. Es können so viele Loks gleichzeitig gefahren, wie es freie Gleisabschnitte gibt. Für jede Lok muss dann auch ein Fahrregler vorhanden sein.
 
-Um nicht von propräitärer Software abhängig zu sein, soll die gesamte Steuerung mit den Hardware-Bausteinen und der Software von Railway-CAN abgedeckt sein. Ich greife dabei auf die Erfahrungen aus dem Loco-CAN Projekt zurück, dass eine ähnliche Hardware verwendet.
+Um nicht von propräitärer Software abhängig zu sein, soll die gesamte Steuerung mit den Hardware-Bausteinen und der Software von Railway-CAN abgedeckt sein. Ich greife dabei auf die Erfahrungen aus dem [Loco-CAN](https://github.com/loco-can) Projekt zurück, dass eine ähnliche Hardware verwendet.
 
 Der Aufbau und die Verkabelung der Anlage, sowie die nötigen Einstellunge sollen für jeden Modellbahner auch ohne Programmierkenntnisse umsetzbar sein und gleichzeitig der Verkabelungsaufwand reduziert werden. Dies wird durch den Einsatz eines CAN-Busses erreicht.
 
