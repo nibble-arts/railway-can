@@ -9,7 +9,7 @@ Die befahrenen Gleisabschnitte werden automatisch vom System geschalten. Es kön
 
 Um nicht von propräitärer Software abhängig zu sein, soll die gesamte Steuerung mit den Hardware-Bausteinen und der Software von Railway-CAN abgedeckt sein. Ich greife dabei auf die Erfahrungen aus dem Loco-CAN Projekt zurück, dass eine ähnliche Hardware verwendet.
 
-Der Aufbau und die Verkabelung der Anlage, sowie die nötigen Einstellunge sollen für jeden Modellbahner auch ohne Programmierkenntnisse umsetzbar sein und gleichzeitig der Verkabelungsaufwand reduziert werden.
+Der Aufbau und die Verkabelung der Anlage, sowie die nötigen Einstellunge sollen für jeden Modellbahner auch ohne Programmierkenntnisse umsetzbar sein und gleichzeitig der Verkabelungsaufwand reduziert werden. Dies wird durch den Einsatz eines CAN-Busses erreicht.
 
 Da das gesamte Projekt, Hard- wie Software, open source sind, können auch in Zukunft jederzeit Module für Erweiterungen nachgefertigt werden. 
 
