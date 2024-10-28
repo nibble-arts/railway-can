@@ -3,7 +3,7 @@ Ziel des Projekts ist es eine analog betriebene Modelleisenbahn so auszurüsten,
 
 Das System besteht aus den Anlagenmodulen, dem Stellpult, den Fahrpulten und der Zentrale.
 
-![image](images/Railay_CAN.jpg)
+![image](images/Railway_CAN.jpg)
 
 Es handelt sich dann um eine digitale Modellbahn, bei der jedoch die Anlage digitalisiert wird und nicht die Fahrzeuge. Jede analoge (und auch digitaler) Lok kann darauf ohne Eingriff in das Fahrzeug eingesetzt werden.
 
