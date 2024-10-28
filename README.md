@@ -1,5 +1,5 @@
 # Railway-CAN
-Ziel des Projekts ist es eine analog betriebene Modelleisenbahn so auszurüsten, dass ein weitgehend vorbildlicher Betrieb erreicht wird. Weichen, Signale und Fahrstraßen bedient das Stellwerk, eine Lokomotive wird von einem Lokführer gesteuert, er sieht seine Signale und kann darauf reagieren.
+Ziel des Projekts ist es, eine analog betriebene Modelleisenbahn so auszurüsten, dass ein weitgehend vorbildlicher Betrieb erreicht wird. Weichen, Signale und Fahrstraßen bedient das Stellwerk, eine Lokomotive wird von einem Lokführer gesteuert, er sieht seine Signale und kann darauf reagieren.
 
 Das System besteht aus den Anlagenmodulen, dem Stellpult, den Fahrpulten und der Zentrale.
 
