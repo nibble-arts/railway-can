@@ -36,6 +36,8 @@ Die Zuordnung zwischen den Anlagenmodulen und den Stellwerksblöcken muss nur ei
 Für eine große Anlage können auch mehrere kleine Stellwerke aufgebaut werden, die dann zusammenarbeiten.
 
 ## Anlagenmodule
+[Abschnitts-Steuerung](docs/section_controller.md)
+
 Auf der Anlage werden die isolierten Gleisabschnitte, die Signal, Weichen und Schrankenanlagen mit jeweils dem passenden Anlagenmodul verbunden. Für die verschiedenen Aufgaben gibt es unterschiedliche Module.
 
 Jedes Anlagenmodul besitzt einen Anschluss für die DC-Versorgungsspannung und zwei Busstecker. Die Fahrspannung wird in jedem Modul gesteuert und darf 2 Ampere in dem Bereich nicht überschreiten. Bei einem Kurzschluss in einem Abschnitt schaltet nur dieses Modul ab, die restliche Anlage bleibt weiter in Betrieb.
@@ -62,6 +64,8 @@ Das Modul für Eisenbahnkreuzungen ist mit dem Signalmodul ident, die jeweilige 
 Die Blinklichtanlage wird mit den Anschlüssen für das Signal verbunden. Es ist kein eigener Gleisabschnitt nötig.
 
 ## Gleisfreimeldung
+[Freimeldesensor](docs/sensor.md)
+
 Für einen vorbildlichen Betrieb ist es wichtig zu wissen, welcher Abschnitt von Fahrzeugen besetzt ist. Um nicht nur Lokomotiven und deren Stromverbrauch zu erkennen, sondern den gesamten Zug, werden Time of Flight-Sensoren (ToF) eingesetzt, die einen bestimmten Raum mittels Laserstrahl überwachen. Es wird so die Anwesenheit jeglichen Fahrzeuges erkannt, ohne jede Waggonachse mit einem Widerstand versehen zu müssen. Ein geschobenen Zug bleibt korrekt vor dem Signal stehen oder löst zum richtigen Zeitpunkt eine Zwangsbremsung beim Überfahrenen Signal aus.
 
 ![image](images/RCAN_SPDrS60_3d_printing.jpg)
