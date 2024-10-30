@@ -58,6 +58,9 @@ Das Signalnodule wird mit zwei Kabeln an den Gleisabschnitt im Bereich des Signa
 
 Für die Überwachung des Signals wird ein Gleisfreimelder verwendet.
 
+### Weichenmodul
+[Weichen](docs/switch.md)
+
 ### Eisenbahnkreuzungsmodul
 Das Modul für Eisenbahnkreuzungen ist mit dem Signalmodul ident, die jeweilige Funktion wird über einen Schalter am Modul gewählt. 
 
