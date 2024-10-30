@@ -90,6 +90,6 @@ Jedes Fahrpult kann mir einer Lok verbunden werden, indem sie Loknummer eingegeb
 Es können mehrere Fahrpulte angeschlossen werden. Die Fahrpulte bieten einen Fahrregler, einen Schalter für die Fahrtrichtung und ein Display, auf dem die nächsten Signale angezeigt werden. Über einen Drehregler lässt sich die Loknummer einstellen.
 
 ## Persistance
-[Persistance](docs/persistance md)
+[Persistance](docs/persistance.md)
 
 Wird das System ausgeschaltet, speichert die Zentrale automatisch den letzten Betriebszustand. Nach dem Einschalten wird dieser Zustand wieder geladen. Hat sich die Zugaufstellung nicht verändert, kann der Betrieb gleich wieder aufgenommen werden.
