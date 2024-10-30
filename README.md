@@ -76,6 +76,8 @@ Für einen vorbildlichen Betrieb ist es wichtig zu wissen, welcher Abschnitt von
 Die Feimeldung wird über die ToF-Sensoren, der Strommessung am Gleis und dem Status der Gleis- und Signalnodule bestimmt.
 
 ## Zentrale
+[Zentrale](docs/central.md)
+
 Die Zentrale verdient den Namen eigentlich nicht, da sie keine zentrale Steuerung vereint, sondern lediglich die Kommunikation aller Komponenten untereinander ermöglicht. 
 
 Sie besitzt einen USB-Anschluss zum Anschluss an einen PC. Ein Computer ist für den normalen Betrieb NICHT nötig. Es können jedoch alle Schalt- und Fahrbefehle von einem Computerprogramm gesendet werden, um so z.B. ein Fahrplan vorgeben zu können. Die Zugfahrten können in dem Fall manuell erfolgen oder auch automatisch.
