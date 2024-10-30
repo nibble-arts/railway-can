@@ -21,6 +21,8 @@ Da das gesamte Projekt, Hard- wie Software, open source sind, können auch in Zu
 Je nach existierender Verkabelung der Modellbahn können die Anlagemodule direkt auf der Anlage verlegt werden oder beim bisherigen Stellpult. Wichtig ist, dass Kabel die Schienen, die Weichen oder Signalen mit den Modulen verbinden müssen. Bei einer Neuverkabelung ist es ratsam die Module unter der Anlage anzubringen. Alle Module werden an eine Versorgung-Ringleitung angeschlossen, die von einem Netzteil für die gesamte Anlage gespeist wird. Es ist auch möglich bei großen Anlagen mehrere Netzteile für Anlagenteile zu verwenden, es muss dann nur der Minuspol aller Netzteile verbunden sein.
 
 ## Stellwerk
+[Stellwerk](docs/signal_box.md)
+
 Das Stellwerk ist ein physisch aufgebautes Spurplanstellwerk der Type Siemens SP Dr S60. Es beinhaltet alle Bedienelemente und Ausleuchtungen zum Stellen der Weichen, Signale, Schranken und Fahrstraßen.
 
 Die Blöcke werden aus 3D-gedruckten Teilen zusammengesetzt. Im Inneren sitzt die Elektronik für den jeweiligen Block mit Tasten, LEDs oder einem Display für die Zugnummer.
