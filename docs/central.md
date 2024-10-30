@@ -19,6 +19,6 @@ Die Zentrale besitzt eine Steckerleiste, im die sowohl Stellwerkblöcke, als auc
 Die Stellwerksblöcke und Anlagemodule müssen beim ersten Aufbau der Anlage einmalig registriert und programmiert werden.
 
 ### Fehlersuche
-Nachdem die Anlage einschalten ist, läuft ein Selbsttest ab, der das Stellpult und die Anlage auf Störungen analysiert. Fehler in der Verkabelung werden sofort erkannt und am Stellpult angezeigt (siehe auch [Stellwerk](docs/signal_box.md)).
+Nachdem die Anlage einschalten ist, läuft ein Selbsttest ab, der das Stellpult und die Anlage auf Störungen analysiert. Fehler in der Verkabelung werden sofort erkannt und am Stellpult angezeigt (siehe auch [Stellwerk](signal_box.md)).
 
 Im Debugmodus lassen sich im Betrieb alle Blöcke und Module überwachen und die inneren Zustände anzeigen. Damit können mögliche Fehlfunktionen lokalisiert und beginnen werden.
